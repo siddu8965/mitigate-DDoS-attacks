@@ -5,6 +5,7 @@ import tkinter
 from tkinter import filedialog
 from tkinter.filedialog import askopenfilename
 import numpy as np
+import streamlit as st
 import matplotlib.pyplot as plt
 import pandas as pd
 from sklearn.metrics import accuracy_score
