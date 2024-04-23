@@ -6,4 +6,4 @@ pip install imblearn==0.0
 pip install imbalanced-learn==0.6.2
 pip install seaborn==0.10.1
 pip install xgboost==1.0.2
-pip install streamlit==1.33.0. 
+pip install streamlit==1.33.0
