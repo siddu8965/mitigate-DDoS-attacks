@@ -1,7 +1,7 @@
+import tkinter
 from tkinter import messagebox
 from tkinter import *
 from tkinter import simpledialog
-import _tkinter
 from tkinter import filedialog
 from tkinter.filedialog import askopenfilename
 import numpy as np
