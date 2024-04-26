@@ -1,4 +1,4 @@
-import tkinter
+import _tkinter
 from tkinter import messagebox
 from tkinter import *
 from tkinter import simpledialog
